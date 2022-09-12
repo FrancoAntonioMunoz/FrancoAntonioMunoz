@@ -2,9 +2,9 @@
 
 Desde el 2018 he incursionado en el área de la informática como consultor en Herramientas de Microsoft. Posteriormente me dedique al desarrollo Web dándome cuenta mi pasión por el desarrollo de Aplicaciones (Web/Mobile). 
 
-:computer: Actualmente Trabajo como desarrollador full-stack
+:computer: Trabajo como desarrollador full-stack
 
-:round_pushpin: resido en Santiago de Chile.
+:round_pushpin: Actualmente resido en Santiago de Chile.
 
 ### En lo que me estoy enfocando 📫
 
